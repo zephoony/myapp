@@ -1,0 +1,5 @@
+com.example.myapp.MyActivity
+com.example.myapp.MyActivity: MyActivity()
+com.example.myapp.R$drawable: int ic_launcher
+com.example.myapp.R$layout: int main
+com.example.myapp.R$string: int app_name

@@ -1,0 +1,6 @@
+com.example.myapp.BuildConfig
+com.example.myapp.R
+com.example.myapp.R$attr
+com.example.myapp.R$drawable
+com.example.myapp.R$layout
+com.example.myapp.R$string
